@@ -1,0 +1,6 @@
+different_doors:
+  auth0:
+    audience: https://differentgroup.eu.auth0.com/api/v2/
+    token_url: https://differentgroup.eu.auth0.com/oauth/token
+    client_id: dzqgyH6PFJ6ul8sppOFy7fopZIjNgBFr
+    client_secret: InEkz50j1Mz9DMq9rHEmoHwlho3kV7Rur3PdM-oYZGwmlzCJmTtY5k-xah_QC486
